@@ -35,3 +35,26 @@ Using a dataset of official D&D monsters, the project performs:
    jupyter notebook
    # or
    voila "Monsters of D&D - Statistical Insights.ipynb"
+
+## Files
+"Monsters of D&D - Statistical Insights.ipynb" – annotated analysis with explanations
+
+dnd_monsters.csv - D&D monster CSV file
+
+Example Use
+Use the interactive estimator to test homebrew monster builds. Input HP, AC, stats, and legendary status, and get:
+
+A predicted CR
+
+A threat score
+
+A comparison to average monsters at that CR
+
+A threat score vs CR plot
+
+License
+MIT License. Feel free to fork, adapt, and extend the project.
+
+Credits
+Project by McKinley West. Built with Python, Pandas, Seaborn, Scikit-learn, and Jupyter Widgets.
+Original Dataset from mrpantherson on Kaggle (https://www.kaggle.com/datasets/mrpantherson/dnd-5e-monsters).
