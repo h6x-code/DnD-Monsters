@@ -34,4 +34,4 @@ Using a dataset of official D&D monsters, the project performs:
    ```bash
    jupyter notebook
    # or
-   voila monsters_annotated.ipynb
+   voila "Monsters of D&D - Statistical Insights.ipynb"
