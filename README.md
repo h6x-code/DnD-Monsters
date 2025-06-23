@@ -28,7 +28,7 @@ Using a dataset of official D&D monsters, the project performs:
 1. Clone the repository:
    ```bash
    git clone https://github.com/h6x-code/DnD-Monsters.git
-   cd dd-monster-cr-estimator
+   cd DnD-Monsters
 
 2. Launch Jupyter or Voila:
    ```bash
