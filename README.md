@@ -41,20 +41,17 @@ Using a dataset of official D&D monsters, the project performs:
 
 dnd_monsters.csv - D&D monster CSV file
 
-Example Use
+## Example Use
 Use the interactive estimator to test homebrew monster builds. Input HP, AC, stats, and legendary status, and get:
 
-A predicted CR
+- A predicted CR
+- A threat score
+- A comparison to average monsters at that CR
+- A threat score vs CR plot
 
-A threat score
-
-A comparison to average monsters at that CR
-
-A threat score vs CR plot
-
-License
+## License
 MIT License. Feel free to fork, adapt, and extend the project.
 
-Credits
+## Credits
 Project by McKinley West. Built with Python, Pandas, Seaborn, Scikit-learn, and Jupyter Widgets.
 Original Dataset from mrpantherson on Kaggle (https://www.kaggle.com/datasets/mrpantherson/dnd-5e-monsters).
