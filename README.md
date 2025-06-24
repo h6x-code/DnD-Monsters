@@ -6,9 +6,9 @@ This project explores statistical and machine learning techniques to analyze and
 Using a dataset of official D&D monsters, the project performs:
 
 - Exploratory Data Analysis on monster stats (HP, AC, STR–CHA, etc.)
-- Feature engineering to derive a custom **Threat Score**
-- CR prediction via **Random Forest Regression**
-- An interactive CR estimator built with **ipywidgets** and **Voila**
+- Feature engineering to derive a custom Threat Score
+- CR prediction via Random Forest Regression
+- An interactive CR estimator built with ipywidgets and Voila
 
 ---
 
