@@ -18,7 +18,7 @@ Using a dataset of official D&D monsters, the project performs:
 - Custom threat score formula:  
   `threat_score = avg_stat * (hp + ac) * (1.25 if legendary)`
 - Visual insights: stat distributions by CR, type, and legendary status
-- CR prediction model using `scikit-learn`
+- CR prediction model using scikit-learn
 - Interactive UI for estimating CR based on monster stats
 
 ---
